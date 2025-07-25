@@ -1,2 +1,4 @@
 # labs_C
-university labs done using c
+Лабораторные по языку C
+Первый семестр первого курса (2020г.)
+Перезалив на GitHub
