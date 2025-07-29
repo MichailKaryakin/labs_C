@@ -1,0 +1,13 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/lab_10.dir/main.c.obj"
+  "CMakeFiles/lab_10.dir/tech_part.c.obj"
+  "lab_10.exe"
+  "lab_10.exe.manifest"
+  "lab_10.pdb"
+  "liblab_10.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/lab_10.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
