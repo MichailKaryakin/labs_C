@@ -1,3 +1,0 @@
-C:/Users/micha/Documents/programming/code/c/labs/dynamic_arrays/cmake-build-debug/CMakeFiles/dynamic_arrays.dir
-C:/Users/micha/Documents/programming/code/c/labs/dynamic_arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/micha/Documents/programming/code/c/labs/dynamic_arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
