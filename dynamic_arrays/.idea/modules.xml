@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/dinamic_arrays.iml" filepath="$PROJECT_DIR$/.idea/dinamic_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/main.c.iml" filepath="$PROJECT_DIR$/.idea/main.c.iml" />
     </modules>
   </component>
 </project>

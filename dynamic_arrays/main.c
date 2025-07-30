@@ -34,17 +34,12 @@ void Add(Array* mas, int new_val) {
 
 int four() {
     int i;
-    Array mas = NewArray(2);
-    Add(&mas, 100);
+    Array mas = NewArray(3);
     Add(&mas, 24);
-    Add(&mas, 42);
-    Add(&mas, 12);
-    Add(&mas, 100);
-    Add(&mas, 42);
-    Add(&mas, 21);
-    Add(&mas, 100);
+    Add(&mas, 24);
+    Add(&mas, 57);
 
-    for (i = 0; i < mas.size; ++i) {
+    for (i = 1; i < mas.size; ++i) {
         printf("%d ", mas.data[i]);
     }
 
